@@ -1,0 +1,25 @@
+body {
+    font-family: arial;
+    background-color: rgb(245, 245, 245);
+}
+h1,h2 {
+    color: rgb(0, 81, 255);
+}
+ul li a {
+    color: brown;
+}
+ol li a {
+    color: rgb(0, 214, 0);
+}
+#p1 {
+    color: rgb(0, 226, 226);
+}
+.p2 {
+    color: blueviolet;
+}
+.cetak {
+    font-weight: bold;
+}
+p.cetak {
+    font-size: 30px;
+}
